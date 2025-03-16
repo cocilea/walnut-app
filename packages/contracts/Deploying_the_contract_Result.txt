@@ -1,0 +1,30 @@
+## Setting up 1 EVM.
+
+==========================
+
+Chain 31337
+
+Estimated gas price: 2.000000001 gwei
+
+Estimated total gas used for script: 465123
+
+Estimated amount required: 0.000930246000465123 ETH
+
+==========================
+
+##### anvil-hardhat
+✅  [Success] Hash: 0x6ab1cd81357d296fb902192b5493ff7d3545058142614df5235d811b64f5dbd3
+Contract Address: 0x5FbDB2315678afecb367f032d93F642f64180aa3
+Block: 1
+Paid: 0.000357787000357787 ETH (357787 gas * 1.000000001 gwei)
+
+✅ Sequence #1 on anvil-hardhat | Total Paid: 0.000357787000357787 ETH (357787 gas * avg 1.000000001 gwei)
+                                                                                                                    
+
+==========================
+
+ONCHAIN EXECUTION COMPLETE & SUCCESSFUL.
+
+Transactions saved to: /Users/coci/walnut-app/packages/contracts/broadcast/Walnut.s.sol/31337/run-latest.json
+
+Sensitive values saved to: /Users/coci/walnut-app/packages/contracts/cache/Walnut.s.sol/31337/run-latest.json

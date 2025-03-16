@@ -1,0 +1,8 @@
+coci@cocideMac-mini cli % bun dev
+$ bun run src/index.ts
+1 | (function (entry, fetcher)
+              ^
+SyntaxError: Export named 'sanvil' not found in module '/Users/coci/walnut-app/packages/cli/node_modules/seismic-viem/dist/_esm/index.js'.
+
+Bun v1.2.5 (macOS arm64)
+error: script "dev" exited with code 1
